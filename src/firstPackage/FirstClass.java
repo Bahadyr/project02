@@ -24,6 +24,9 @@ public class FirstClass {
 		System.out.println("Here is another conflict from local master branch");
 		System.out.println("helllooooooo!!!!!!!!!");
 		System.out.println("Hello from the other siiiideee ");
+		System.out.println("Why not working babe ?");
+		System.out.println("zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz");
+		System.out.println("Here is the conflict on future");
 
 	}
 
