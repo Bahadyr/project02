@@ -23,6 +23,7 @@ public class FirstClass {
 
 		System.out.println("Here is another conflict from local master branch");
 		System.out.println("helllooooooo!!!!!!!!!");
+		System.out.println("Hello from the other siiiideee ");
 
 	}
 
