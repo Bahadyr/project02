@@ -14,6 +14,7 @@ public class FirstClass {
 		System.out.print(a);
 		System.out.println("First commit from remote mater branch ");
 		System.out.println("Second commit from remote mater branch ");
+		System.out.println("Third commit from remote mater branch ");
 		   
 	}
 
