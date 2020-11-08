@@ -14,7 +14,7 @@ public class FirstClass {
 		a=a*a;
 		System.out.print(a);
 		System.out.println("First commit from remote mater branch ");
-		
+		System.out.println("Second commit from remote mater branch ");
 		   
 	}
 
