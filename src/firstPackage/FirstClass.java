@@ -28,6 +28,8 @@ public class FirstClass {
 		System.out.println("zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz");
 		System.out.println("Here is the conflict on future");
 		System.out.println("Bahadyr");
+  		System.out.println("Change from remote master branch!!!!");
+		
 
 
 
